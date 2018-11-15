@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Data.cs](./CS/SLShowDetailButton/Data.cs) (VB: [Data.vb](./VB/SLShowDetailButton/Data.vb))
+* [MainPage.xaml](./CS/SLShowDetailButton/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLShowDetailButton/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SLShowDetailButton/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SLShowDetailButton/MainPage.xaml))
+<!-- default file list end -->
 # SL Detail buttons visibility
 
 
