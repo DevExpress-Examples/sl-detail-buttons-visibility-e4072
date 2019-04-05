@@ -3,7 +3,7 @@
 
 * [Data.cs](./CS/SLShowDetailButton/Data.cs) (VB: [Data.vb](./VB/SLShowDetailButton/Data.vb))
 * [MainPage.xaml](./CS/SLShowDetailButton/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLShowDetailButton/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SLShowDetailButton/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SLShowDetailButton/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SLShowDetailButton/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SLShowDetailButton/MainPage.xaml.vb))
 <!-- default file list end -->
 # SL Detail buttons visibility
 
